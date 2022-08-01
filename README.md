@@ -1,0 +1,1 @@
+An early website following The Odin Project to explore HTML basics. 
